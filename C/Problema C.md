@@ -2,7 +2,7 @@
 
 ## Codificando Matrizes
 
-**Nome do arquivo fonte: adjacencia. [c | cpp | java | py]**
+**Nome do arquivo fonte: matrizes. [c | cpp | java | py]**
 
 O fazendeiro Jailton Bono (JB) está ensinando números binários às vacas dele e clas aprenderam rapidamente que números binários têm apenas os dígitos 0 e 1. JB ficou muito feliz com os resultados obtidos, e então ele decidiu ensiná-las como criar matrizes binárias quadradas.
 Entretanto, as vacas ficaram entediadas depois da segunda aula. JB ficou um pouco triste e pensou, e se eu ensinasse minhas vacas a codificar matrizes binárias com outros símbolos?
