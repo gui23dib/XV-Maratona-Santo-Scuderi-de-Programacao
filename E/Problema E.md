@@ -26,7 +26,7 @@ Seu programa deve produzir uma linha contendo o inteiro 1, se a string dada na e
 | Entrada | Saída |
 |---------|-------|
 | ilove   | 1     |
-| idont   | 1     |
+| idont   | 0     |
 | amor    | 0     |
 | amores  | 0     |
 | macAs   | 0     |
